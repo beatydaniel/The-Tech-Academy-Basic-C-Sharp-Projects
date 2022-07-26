@@ -12,3 +12,17 @@ C:\Users\danis\source\repos\MathAndComparison\MathAndComparison\obj\Debug\netcor
 C:\Users\danis\source\repos\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.dll
 C:\Users\danis\source\repos\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.pdb
 C:\Users\danis\source\repos\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.genruntimeconfig.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\netcoreapp3.1\MathAndComparison.exe
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\netcoreapp3.1\MathAndComparison.deps.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\netcoreapp3.1\MathAndComparison.runtimeconfig.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\netcoreapp3.1\MathAndComparison.runtimeconfig.dev.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\netcoreapp3.1\MathAndComparison.dll
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\netcoreapp3.1\MathAndComparison.pdb
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.csproj.AssemblyReference.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.AssemblyInfoInputs.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.AssemblyInfo.cs
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.csproj.CoreCompileInputs.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.dll
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.pdb
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\netcoreapp3.1\MathAndComparison.genruntimeconfig.cache

@@ -6,6 +6,7 @@ namespace MathAndComparison
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Anonymous Income Comparison Program");
             Console.WriteLine("Person 1: ");
             Console.WriteLine("Hourly Rate: ");
             string hourlyrate = Console.ReadLine(); //stores the string
