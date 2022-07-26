@@ -1,0 +1,14 @@
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.exe
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.deps.json
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.runtimeconfig.json
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.runtimeconfig.dev.json
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.dll
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.pdb
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.csproj.AssemblyReference.cache
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.AssemblyInfoInputs.cache
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.AssemblyInfo.cs
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.csproj.CoreCompileInputs.cache
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.dll
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.pdb
+C:\Users\danis\source\repos\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.genruntimeconfig.cache
