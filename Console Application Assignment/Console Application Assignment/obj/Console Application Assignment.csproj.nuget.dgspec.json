@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj": {}
+    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj": {
+    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj",
         "projectName": "Console Application Assignment",
-        "projectPath": "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj",
+        "projectPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj",
         "packagesPath": "C:\\Users\\danis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\obj\\",
+        "outputPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console Application Assignment\\Console Application Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danis\\AppData\\Roaming\\NuGet\\NuGet.Config",

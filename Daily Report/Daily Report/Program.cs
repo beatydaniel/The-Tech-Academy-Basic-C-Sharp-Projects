@@ -14,14 +14,17 @@ namespace Daily_Report
             string courseName = Console.ReadLine(); // Stores the typed string into the variable courseName 
             Console.WriteLine("\nWhat page number?");
             string pageNumber = Console.ReadLine();
+            int pgNum = Convert.ToInt32(pageNumber);
             Console.WriteLine("\nDo you need help with anything? Please answer \"true\" or \"false\".");
-            string help = Console.ReadLine(); // Stores the typed string into the variable help
+            string strtrueFalse = Console.ReadLine();
+            bool trueFalse = Convert.ToBoolean(strtrueFalse);
             Console.WriteLine("\nWere there any positve expreinces you'd like to share? Please be specific.");
             string positiveExperience = Console.ReadLine();// Stores the typed string into the variable positiveExpeirence
             Console.WriteLine("\nIs there any other feedback you'd like to provide? Please be specific.");
             string feedback = Console.ReadLine();// Stores the typed string into the variable feedback
             Console.WriteLine("\nHow many hours did you study today?");
             string hoursStudied = Console.ReadLine(); // Stores the typed string into the variable hoursStudied
+            int hrs = Convert.ToInt32(hoursStudied);
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
         }
     }
