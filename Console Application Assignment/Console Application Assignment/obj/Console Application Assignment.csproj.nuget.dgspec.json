@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Daily Report\\Daily Report\\Daily Report.csproj": {}
+    "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Daily Report\\Daily Report\\Daily Report.csproj": {
+    "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Daily Report\\Daily Report\\Daily Report.csproj",
-        "projectName": "Daily Report",
-        "projectPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Daily Report\\Daily Report\\Daily Report.csproj",
+        "projectUniqueName": "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj",
+        "projectName": "Console Application Assignment",
+        "projectPath": "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\Console Application Assignment.csproj",
         "packagesPath": "C:\\Users\\danis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Daily Report\\Daily Report\\obj\\",
+        "outputPath": "C:\\Users\\danis\\source\\repos\\Console Application Assignment\\Console Application Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danis\\AppData\\Roaming\\NuGet\\NuGet.Config",

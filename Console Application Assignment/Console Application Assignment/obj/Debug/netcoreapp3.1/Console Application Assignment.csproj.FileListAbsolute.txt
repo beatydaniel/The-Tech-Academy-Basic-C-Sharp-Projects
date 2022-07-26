@@ -1,0 +1,14 @@
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\bin\Debug\netcoreapp3.1\Console Application Assignment.exe
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\bin\Debug\netcoreapp3.1\Console Application Assignment.deps.json
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\bin\Debug\netcoreapp3.1\Console Application Assignment.runtimeconfig.json
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\bin\Debug\netcoreapp3.1\Console Application Assignment.runtimeconfig.dev.json
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\bin\Debug\netcoreapp3.1\Console Application Assignment.dll
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\bin\Debug\netcoreapp3.1\Console Application Assignment.pdb
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.AssemblyInfoInputs.cache
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.AssemblyInfo.cs
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.csproj.CoreCompileInputs.cache
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.dll
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.pdb
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.genruntimeconfig.cache
+C:\Users\danis\source\repos\Console Application Assignment\Console Application Assignment\obj\Debug\netcoreapp3.1\Console Application Assignment.csproj.AssemblyReference.cache
