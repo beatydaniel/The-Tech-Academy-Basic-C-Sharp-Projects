@@ -9,11 +9,11 @@ namespace Branching_Submission_Assignment
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
             Console.WriteLine("Please enter the package weight:"); 
             int weight = Convert.ToInt32(Console.ReadLine()); //Converts the string into a int
-            if (weight > 50) //if below 50 stop
+            if (weight > 50) //if more than 50 stop
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
             }
-            else if (weight < 50) // if below 50 do this
+            else if (weight <= 50) // if below 50 do this
             {
                 Console.WriteLine("Please enter the package width:");
                 int width = Convert.ToInt32(Console.ReadLine());
@@ -25,7 +25,7 @@ namespace Branching_Submission_Assignment
                 {
                     Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
                 }
-                else if (height + length + width < 50) // if these variables dont add past 50 do this
+                else if (height + length + width <= 50) // if these variables dont add past 50 do this
                 {
                     int total = (height * length * width) * weight / 100; // Multiplies all the variables and divides by 100
                     Console.WriteLine("Your estimated total for shipping this package is:" + "$" + total + ".00");
