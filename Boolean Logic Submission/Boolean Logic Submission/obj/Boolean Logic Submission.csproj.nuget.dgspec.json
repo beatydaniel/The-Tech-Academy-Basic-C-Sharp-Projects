@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danis\\source\\repos\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj": {}
+    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danis\\source\\repos\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj": {
+    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danis\\source\\repos\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj",
+        "projectUniqueName": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj",
         "projectName": "Boolean Logic Submission",
-        "projectPath": "C:\\Users\\danis\\source\\repos\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj",
+        "projectPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Boolean Logic Submission\\Boolean Logic Submission\\Boolean Logic Submission.csproj",
         "packagesPath": "C:\\Users\\danis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danis\\source\\repos\\Boolean Logic Submission\\Boolean Logic Submission\\obj\\",
+        "outputPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Boolean Logic Submission\\Boolean Logic Submission\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danis\\AppData\\Roaming\\NuGet\\NuGet.Config",

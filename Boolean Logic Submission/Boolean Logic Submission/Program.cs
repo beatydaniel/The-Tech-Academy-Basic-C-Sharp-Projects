@@ -18,7 +18,7 @@ namespace Boolean_Logic_Submission
 
             bool age2 = age > 15; // asks if the age is greater than 15
             bool dui2 = dui == false; // asks if the dui is false
-            bool tickets2 = tickets < 3; // asks if the tickets is no greater than 3
+            bool tickets2 = tickets <= 3; // asks if the tickets is greater than or equal to 3
             bool Qualified = age2 && dui2 && tickets2; // asks if all are true or false
 
             Console.WriteLine("Qualified?");
