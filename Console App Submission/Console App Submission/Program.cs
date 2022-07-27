@@ -10,10 +10,10 @@ namespace Console_App_Submission
             string letter = Console.ReadLine();
             bool isGuessed = letter == "u"; // is true if the typed letter is u
             int i = 0;
-            while (i < 10)
+            while (i < 10) //loops until i gets to 10
             {
                 Console.WriteLine(i);
-                i++;
+                i++; //adds 1 
             }    
             do //does the loop after the first input
             {
