@@ -13,24 +13,24 @@ namespace Branching_Submission_Assignment
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
             }
-            else if (weight <= 50) // if below 50 do this
+            else
             {
-                Console.WriteLine("Please enter the package width:");
-                int width = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Please enter the package height:");
-                int height = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Please enter the package length:");
-                int length = Convert.ToInt32(Console.ReadLine());
-                if (height + length + width > 50) // if over 50 stop
+             Console.WriteLine("Please enter the package width:");
+             int width = Convert.ToInt32(Console.ReadLine());
+             Console.WriteLine("Please enter the package height:");
+             int height = Convert.ToInt32(Console.ReadLine());
+             Console.WriteLine("Please enter the package length:");
+             int length = Convert.ToInt32(Console.ReadLine());
+            if(height + length + width > 50) // if over 50 stop
                 {
                     Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
                 }
-                else if (height + length + width <= 50) // if these variables dont add past 50 do this
+            else
                 {
-                    int total = (height * length * width) * weight / 100; // Multiplies all the variables and divides by 100
-                    Console.WriteLine("Your estimated total for shipping this package is:" + "$" + total + ".00");
-                    Console.WriteLine("Thank You!");
-                    Console.ReadLine();
+                  int total = (height * length * width) * weight / 100; // Multiplies all the variables and divides by 100
+                  Console.WriteLine("Your estimated total for shipping this package is:" + "$" + total + ".00");
+                  Console.WriteLine("Thank You!");
+                  Console.ReadLine();
                 }
             }
         }
