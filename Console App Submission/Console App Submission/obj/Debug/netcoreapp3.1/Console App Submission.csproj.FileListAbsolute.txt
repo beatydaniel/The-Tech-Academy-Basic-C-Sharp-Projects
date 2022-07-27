@@ -1,0 +1,14 @@
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\bin\Debug\netcoreapp3.1\Console App Submission.exe
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\bin\Debug\netcoreapp3.1\Console App Submission.deps.json
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\bin\Debug\netcoreapp3.1\Console App Submission.runtimeconfig.json
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\bin\Debug\netcoreapp3.1\Console App Submission.runtimeconfig.dev.json
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\bin\Debug\netcoreapp3.1\Console App Submission.dll
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\bin\Debug\netcoreapp3.1\Console App Submission.pdb
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.csproj.AssemblyReference.cache
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.AssemblyInfoInputs.cache
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.AssemblyInfo.cs
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.csproj.CoreCompileInputs.cache
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.dll
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.pdb
+C:\Users\danis\source\repos\Console App Submission\Console App Submission\obj\Debug\netcoreapp3.1\Console App Submission.genruntimeconfig.cache
