@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danis\\source\\repos\\Console App Submission\\Console App Submission\\Console App Submission.csproj",
+      "projectUniqueName": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Submission\\Console App Submission\\Console App Submission.csproj",
       "projectName": "Console App Submission",
-      "projectPath": "C:\\Users\\danis\\source\\repos\\Console App Submission\\Console App Submission\\Console App Submission.csproj",
+      "projectPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Submission\\Console App Submission\\Console App Submission.csproj",
       "packagesPath": "C:\\Users\\danis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danis\\source\\repos\\Console App Submission\\Console App Submission\\obj\\",
+      "outputPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Submission\\Console App Submission\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danis\\AppData\\Roaming\\NuGet\\NuGet.Config",

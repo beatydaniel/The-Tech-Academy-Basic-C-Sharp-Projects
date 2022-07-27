@@ -9,7 +9,12 @@ namespace Console_App_Submission
             Console.WriteLine("Guess the letter?");
             string letter = Console.ReadLine();
             bool isGuessed = letter == "u"; // is true if the typed letter is u
-
+            int i = 0;
+            while (i < 10)
+            {
+                Console.WriteLine(i);
+                i++;
+            }    
             do //does the loop after the first input
             {
                 switch (letter)
