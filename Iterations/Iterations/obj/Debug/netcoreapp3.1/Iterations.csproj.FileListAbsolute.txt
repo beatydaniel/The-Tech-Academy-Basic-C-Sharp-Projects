@@ -12,3 +12,17 @@ C:\Users\danis\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterat
 C:\Users\danis\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.dll
 C:\Users\danis\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.pdb
 C:\Users\danis\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.genruntimeconfig.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.exe
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.deps.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.dev.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.pdb
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.csproj.AssemblyReference.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfoInputs.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfo.cs
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.pdb
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.genruntimeconfig.cache

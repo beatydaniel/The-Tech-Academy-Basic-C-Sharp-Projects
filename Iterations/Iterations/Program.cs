@@ -38,7 +38,7 @@ namespace Iterations
 
             for (int i = 0; i < 2; i++) //Using the < operator
             {
-                Console.WriteLine("This should print twice"); 
+                Console.WriteLine("This should print twice");
             }
             Console.ReadLine();
 
@@ -65,8 +65,9 @@ namespace Iterations
             {
                 if (names[j] == name)
                 {
-                    Console.WriteLine("\n" + name + " is found at index " + j +"\n");
+                    Console.WriteLine("\n" + name + " is found at index " + j + "\n");
                     trueorFalse2 = true;
+                    break; //Stops the loop
                 }
             }
 
@@ -89,11 +90,11 @@ namespace Iterations
             string color2 = Console.ReadLine();
             bool trueorFalse3 = false;
 
-            for (int p = 0; p < colors.Count; p++) 
+            for (int p = 0; p < colors.Count; p++)
             {
                 if (colors[p] == color2)
                 {
-                    Console.WriteLine(color2 + " is found it at index: " + p +"\n"); // returns single or duplicate entries and displays there locations in the index.
+                    Console.WriteLine(color2 + " is found it at index: " + p + "\n"); // returns single or duplicate entries and displays there locations in the index.
                     trueorFalse3 = true;
                 }
             }
@@ -106,25 +107,22 @@ namespace Iterations
 
             //Part 6
 
-            List<string> movies = new List<string>() { "Avengers", "Die Hard", "Harry Potter", "Alien", "Terminator", "Terminator", "Alien" };
+            List<string> movies = new List<string>() { "Avengers -", "Die Hard -", "Harry Potter -", "Alien -", "Terminator -", "Terminator -", "Alien -"};
             List<string> duplicates = new List<string>();
 
             Console.WriteLine("This is my list\n");
 
             foreach (string movie in movies)
             {
-                if (duplicates.Contains(movie)) 
+                if (duplicates.Contains(movie))
                 {
-                    Console.WriteLine(movie + " is a duplicate."); //prints the duplicates
+                    Console.WriteLine(movie + " this item is a duplicate ");
                 }
                 else
                 {
+                    Console.WriteLine(movie + " this item is unique. "); //prints the list of movies
                     duplicates.Add(movie);
                 }
-            }
-            foreach (string movie in duplicates)
-            {
-                Console.WriteLine(movie); //prints the list of movies
             }
             Console.ReadLine();
         }
