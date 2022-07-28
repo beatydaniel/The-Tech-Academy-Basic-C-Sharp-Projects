@@ -8,7 +8,6 @@ namespace Strings_and_Integers_Assignment
         static void Main(string[] args)
         {
             List<int> numbers = new List<int>() { 2, 4, 5, 6, 8 }; //list of integers
-
             try
             {
                 Console.WriteLine("Enter a number to divide by: ");
@@ -18,6 +17,7 @@ namespace Strings_and_Integers_Assignment
                     int divide = i / numberOne; //Divides each item by the users input
                     Console.WriteLine(i + " divided by " + numberOne + " equals " + divide); //prints results
                 }
+                
             }
             catch(DivideByZeroException ex) // if the user typed 0 does this
             {
@@ -33,6 +33,7 @@ namespace Strings_and_Integers_Assignment
             }
             finally // alows to always run this even after a error
             {
+                Console.WriteLine("This message has emerged from the try/catch block and continued on with program execution");
                 Console.ReadLine();
             }
         }
