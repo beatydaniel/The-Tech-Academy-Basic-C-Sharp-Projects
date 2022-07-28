@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danis\\source\\repos\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj": {}
+    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danis\\source\\repos\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj": {
+    "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danis\\source\\repos\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj",
+        "projectUniqueName": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj",
         "projectName": "Console App Array Submission",
-        "projectPath": "C:\\Users\\danis\\source\\repos\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj",
+        "projectPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Array Submission\\Console App Array Submission\\Console App Array Submission.csproj",
         "packagesPath": "C:\\Users\\danis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danis\\source\\repos\\Console App Array Submission\\Console App Array Submission\\obj\\",
+        "outputPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Console App Array Submission\\Console App Array Submission\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danis\\AppData\\Roaming\\NuGet\\NuGet.Config",
