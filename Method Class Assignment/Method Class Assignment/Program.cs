@@ -11,8 +11,8 @@ namespace Method_Class_Assignment
         static void Main(string[] args)
         {
             Integers method = new Integers(); //Instantiating the class
-
-            method.Integer(first: 3, second: 5);  // Passing in two numbers and specifying the parameters
+            method.Integer(10, 20); // Passing in two numbers
+            method.Integer(first: 3, second: 5);  // Specifying the parameters name and giving them a value
 
             Console.ReadLine();
         }
