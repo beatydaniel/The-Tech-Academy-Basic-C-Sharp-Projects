@@ -1,0 +1,14 @@
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\bin\Debug\netcoreapp3.1\Method Class Assignment.exe
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\bin\Debug\netcoreapp3.1\Method Class Assignment.deps.json
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\bin\Debug\netcoreapp3.1\Method Class Assignment.runtimeconfig.json
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\bin\Debug\netcoreapp3.1\Method Class Assignment.runtimeconfig.dev.json
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\bin\Debug\netcoreapp3.1\Method Class Assignment.dll
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\bin\Debug\netcoreapp3.1\Method Class Assignment.pdb
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.csproj.AssemblyReference.cache
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.AssemblyInfoInputs.cache
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.AssemblyInfo.cs
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.dll
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.pdb
+C:\Users\danis\source\repos\Method Class Assignment\Method Class Assignment\obj\Debug\netcoreapp3.1\Method Class Assignment.genruntimeconfig.cache
