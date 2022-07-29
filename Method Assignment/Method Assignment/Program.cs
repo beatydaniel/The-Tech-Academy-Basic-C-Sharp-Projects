@@ -22,7 +22,7 @@ namespace Method_Assignment
                 Console.WriteLine(numberOne + " + 20 " + " = " + method.Integer(numberOne));
                 Console.ReadLine();
             }
-            else // if there is a input of a integer do this
+            else // if there is two inputs of integers do this
             {
                 int numberTwo = Convert.ToInt32(stringNumber);
                 Console.WriteLine(numberOne + " + " + numberTwo + " = " + method.Integer(numberOne, numberTwo)); // if there are two numbers entered add them using the method integers

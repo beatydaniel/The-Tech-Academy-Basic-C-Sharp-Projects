@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danis\\source\\repos\\Method Assignment\\Method Assignment\\Method Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method Assignment\\Method Assignment\\Method Assignment.csproj",
       "projectName": "Method Assignment",
-      "projectPath": "C:\\Users\\danis\\source\\repos\\Method Assignment\\Method Assignment\\Method Assignment.csproj",
+      "projectPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method Assignment\\Method Assignment\\Method Assignment.csproj",
       "packagesPath": "C:\\Users\\danis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danis\\source\\repos\\Method Assignment\\Method Assignment\\obj\\",
+      "outputPath": "C:\\Users\\danis\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method Assignment\\Method Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danis\\AppData\\Roaming\\NuGet\\NuGet.Config",
