@@ -22,7 +22,7 @@ namespace Class_Assignment
             Console.ReadLine();
         }
 
-        public void Overload(int number3, int number4) // An overloaded method using two parameters
+        public void Integer(int number3, int number4) // An overloaded method using two parameters
         {
             int awnser = (number3 / 2) + number4;
             Console.WriteLine("\n" + number3 + " divided by 2 " + " + " + number4 + " = " + awnser);

@@ -24,7 +24,7 @@ namespace Class_Assignment
             Console.WriteLine("Please Enter another number: ");
             int num3 = Convert.ToInt32(Console.ReadLine());
  
-            method.Overload(num2, num3); // calls the method Overload which takes both the inputed integers
+            method.Integer(num2, num3); // calls the method Overload which takes both the inputed integers
 
             Static.StaticClass(); //Calls my static method from my static class
 
