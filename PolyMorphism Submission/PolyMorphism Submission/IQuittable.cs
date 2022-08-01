@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PolyMorphism_Submission
 {
-    interface IQuittable
+    interface IQuittable // A interface
     {
         void Quit();
     }
