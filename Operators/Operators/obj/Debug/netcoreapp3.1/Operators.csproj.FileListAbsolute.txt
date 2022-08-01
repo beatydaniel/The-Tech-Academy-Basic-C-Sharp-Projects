@@ -12,3 +12,17 @@ C:\Users\danis\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operator
 C:\Users\danis\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
 C:\Users\danis\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
 C:\Users\danis\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\danis\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
